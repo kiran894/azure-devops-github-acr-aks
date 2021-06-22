@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JI5MiPQxvRtwHVTLbQXMI9iXUsftJi+qLCy4CF7LP0MgeL42UxbHzgnj+wy5RbcYYlhzAELeGKp/6+puSNq0vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dotnet\\dotnetGrafana\\dotnetGrafana.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u726348\\.nuget\\packages\\prometheus-net\\4.1.1\\prometheus-net.4.1.1.nupkg.sha512",
+    "C:\\Users\\u726348\\.nuget\\packages\\prometheus-net.aspnetcore\\4.1.1\\prometheus-net.aspnetcore.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
